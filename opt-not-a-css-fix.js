@@ -132,4 +132,4 @@ td.td-subcomponent > div > div > .display-row > div:nth-child(2) > div .display-
 }
 
 
-`);
+`.replace(/;/g, ' !important;'));
