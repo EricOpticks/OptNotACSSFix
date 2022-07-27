@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Better Opticks Panel
+// @name         Opt Not a CSS fix
 // @namespace    https://app.preprod.opticks.io/
-// @version      1.3
+// @version      1.4
 // @description  Misc UI improvements
 // @author       E
 // @license      MIT
